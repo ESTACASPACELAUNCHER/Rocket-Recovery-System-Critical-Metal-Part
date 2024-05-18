@@ -2,7 +2,9 @@
 ## Rocket Recovery System Critical Metal Part
 
 ### Introduction
-![images](https://github.com/ESTACASPACELAUNCHER/Rocket-Recovery-System-Critical-Metal-Part/assets/170099444/9854895f-b5db-436c-af63-ae84bec013a0)
+![images](https://github.com/ESTACASPACELAUNCHER/Rocket-Recovery-System-Critical-Metal-Part/assets/170099444/48896180-4ad6-484b-8369-fbde8595689c)
+
+
 <img width="529" alt="Capture d'écran 2024-05-17 140240" src="https://github.com/ESTACASPACELAUNCHER/Rocket-Recovery-System-Critical-Metal-Part/assets/170099444/256c833d-da92-4521-8678-e1619ab642eb">
 
 Estaca Space Odyssey is an aerospace/rocketry themed association from the engineering school ESTACA, located next to Paris in France. The association is involved in various projects, from mini-rockets to large experimental rockets. In this article, we will focus on the biggest rocket in development for this year: the ESTACA Space Launcher (ESL). ESL is a program composed of 3 rockets, each one going higher to reach at the end the altitude of 30km with a hybrid rocket engine (liquid + solid). ESL-1 is the first rocket of the program and has the goal to go to an altitude of 3000m and control its roll by ejecting pressurized air on the side. To launch ESL-1, we will be participating in an international launch campaign called C'Space in France, organized by the French Space Agency (CNES).
@@ -45,7 +47,7 @@ Once the assembly is completed, the recovery system is tested several times to e
 ### Partnership with JLC3DP for SLM 3D Printed Parts
 ![images](https://github.com/ESTACASPACELAUNCHER/Rocket-Recovery-System-Critical-Metal-Part/assets/170099444/ce3dec13-ec0c-4b76-bdf5-5f68c23b53da)
 
-We are thrilled to announce our partnership with JLC3DP(https://jlc3dp.com/?source=JLCPCB-top-productbar), a leading provider of SLM (Selective Laser Melting) 3D printing services. As we mentioned earlier, the critical metal part of our recovery system is complex to make with simple CNC machines and needs to be resistant enough to support high constraints. That's why we decided to opt for SLM 3D printing technology, which allows for the creation of highly complex and durable metal parts.
+We are thrilled to announce our partnership with JLC3DP(https://jlc3dp.com/?from=estaca), a leading provider of SLM (Selective Laser Melting) 3D printing services. As we mentioned earlier, the critical metal part of our recovery system is complex to make with simple CNC machines and needs to be resistant enough to support high constraints. That's why we decided to opt for SLM 3D printing technology, which allows for the creation of highly complex and durable metal parts.
 
 JLC3DP has been instrumental in the production of the critical metal part of our recovery system. The SLM 3D printing process involves using a high-powered laser to melt and fuse together metal powder particles, layer by layer, until the part is complete. This results in a part that is not only highly detailed but also extremely strong and durable.
 
